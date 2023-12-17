@@ -1,2 +1,2 @@
 # Discord-Vanity-Checker
-Discord Vanity Url Checker
+Go dan yaptım gidin kullanın amk benim dersiniz
